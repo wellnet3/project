@@ -1,1 +1,2 @@
 Version: 0.0
+https://github.com/wellnet3/project/raw/master/buchhaltung_test.jar
